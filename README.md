@@ -1,5 +1,3 @@
 # find3Multipliers
-
-Finds all a, b, c in a*b*c = input integer
-
-Works well with big numbers
+Old uni homework assignment, first day of aglorithmes class.
+The most efficient I could think of way for finding unique set of multipliers for any giving number.
