@@ -1,6 +1,6 @@
-# find3Multipliers
+# find3Factors
 Old uni homework assignment, first day of aglorithmes class.
-The most efficient way I could think of for finding unique set of 3 multipliers for any giving number.
+The most efficient way I could think of for finding unique set of 3 factors for any giving number.
 
 ```
 Write a number 476648468
